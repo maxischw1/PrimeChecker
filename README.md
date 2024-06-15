@@ -10,6 +10,8 @@ Um das Programm auszuführen, kompiliere und starte die `PrimeChecker`-Klasse mi
 javac PrimeChecker.java
 java PrimeChecker 17
 
+```
+
 Wenn die Zahl eine Primzahl ist:
  wird die Nachricht 17 ist eine Primzahl ausgegeben.
 Andernfalls:
